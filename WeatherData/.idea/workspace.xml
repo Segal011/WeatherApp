@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4805e644-afef-408d-82e3-83556900ce75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XcPUOlRzXCl5WzTkDfjuXn8MqX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ivs_core" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Indre\PycharmProjects\Weather\WeatherData\DataApp" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4805e644-afef-408d-82e3-83556900ce75" name="Default Changelist" comment="" />
+      <created>1581342424899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581342424899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="944" y="187" key="#Inspections" timestamp="1581408572181">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="944" y="187" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1581408572181" />
+    <state x="1220" y="280" key="FileChooserDialogImpl" timestamp="1581495780231">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1220" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1581495780231" />
+    <state x="1020" y="263" key="IDE.errors.dialog" timestamp="1581342668885">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1020" y="263" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581342668885" />
+    <state x="919" y="192" key="SettingsEditor" timestamp="1581342506369">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="919" y="192" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1581342506369" />
+    <state x="1136" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1581495767817">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1136" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581495767817" />
+    <state x="1082" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581435683172">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1082" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1581435683172" />
+    <state x="1093" y="172" key="refactoring.ChangeSignatureDialog" timestamp="1581430464555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1093" y="172" key="refactoring.ChangeSignatureDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581430464555" />
+    <state x="1103" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1581406003348">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1103" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581406003348" />
+  </component>
+</project>

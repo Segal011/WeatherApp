@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7109c856-cc96-4b5e-b680-e0131cd9fb0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XP6NPTzkV2HM7wCyJNgnkeoHgD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WeatherData" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7109c856-cc96-4b5e-b680-e0131cd9fb0c" name="Default Changelist" comment="" />
+      <created>1580935341076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580935341076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581440783044">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581440783044" />
+    <state x="210" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581339325229">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="210" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581339325229" />
+    <state x="266" y="268" key="FileChooserDialogImpl" timestamp="1581412324838">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="266" y="268" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1581412324838" />
+    <state x="60" y="263" key="IDE.errors.dialog" timestamp="1581339814778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="60" y="263" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581339814778" />
+    <state x="190" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1581440718545">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="190" y="369" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581440718545" />
+    <state x="194" y="188" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581339529423">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="194" y="188" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1581339529423" />
+    <state x="150" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1581489892416">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="150" y="257" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581489892416" />
+  </component>
+</project>
